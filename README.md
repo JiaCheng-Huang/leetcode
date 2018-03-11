@@ -1,11 +1,11 @@
 # Leetcode progress
-Until 2018-03-11 12:07:32, I have solved **2** / **710** problems while **132** are still locked.
+Until 2018-03-11 20:11:32, I have solved **3** / **714** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 2 
 2. Python: 1
 3. C++: 1
-4. Java: 2
+4. Java: 3
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -15,7 +15,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.js)|[Python](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.py)|[C++](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.cpp)|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.java)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.js)|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.java)|
-|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -723,3 +723,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|To Do|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|To Do|
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|To Do|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|To Do|
+|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|To Do|To Do|To Do|
+|799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|To Do|
