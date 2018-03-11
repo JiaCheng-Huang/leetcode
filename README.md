@@ -1,8 +1,8 @@
 # Leetcode progress
-Until 2018-03-10 23:02:17, I have solved **2** / **710** problems while **132** are still locked.
+Until 2018-03-11 12:07:32, I have solved **2** / **710** problems while **132** are still locked.
 
 Completion statistic: 
-1. JavaScript: 1 
+1. JavaScript: 2 
 2. Python: 1
 3. C++: 1
 4. Java: 2
@@ -14,7 +14,7 @@ Note: :lock: means you need to buy a book from LeetCode
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.js)|[Python](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.py)|[C++](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.cpp)|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.java)|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.java)|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.js)|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.java)|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
