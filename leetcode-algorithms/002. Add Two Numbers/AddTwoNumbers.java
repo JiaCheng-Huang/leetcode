@@ -1,4 +1,4 @@
-class Solution {
+class AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result = new ListNode(0);
         int carry = 0;
