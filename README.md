@@ -1,25 +1,25 @@
 # Leetcode progress
-Until 2018-03-11 20:11:32, I have solved **3** / **714** problems while **132** are still locked.
+Until 2018-03-15 20:26:02, I have solved **4** / **714** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 2 
 2. Python: 1
 3. C++: 1
-4. Java: 3
+4. Java: 4
 
 Note: :lock: means you need to buy a book from LeetCode
 
 ----------------
-## LeetCode Solution Table
+## LeetCode ReverseInteger Table
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.js)|[Python](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.py)|[C++](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.cpp)|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/Solution.java)|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.js)|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.java)|
-|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/TwoSum.js)|[Python](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/TwoSum.py)|[C++](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/TwoSum.cpp)|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/TwoSum.java)|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[JavaScript](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/AddTwoNumbers.js)|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/AddTwoNumbers.java)|
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java)|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|To Do|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/ReverseInteger.java)|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
