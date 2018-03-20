@@ -1,11 +1,11 @@
 # Leetcode progress
-Until 2018-03-19 22:15:16, I have solved **8** / **718** problems while **133** are still locked.
+Until 2018-03-20 17:20:45, I have solved **13** / **718** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 2 
 2. Python: 1
 3. C++: 1
-4. Java: 8
+4. Java: 13
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -339,7 +339,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|To Do|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|To Do|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/344.%20Reverse%20String/ReverseString.java)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -461,7 +461,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) |Medium|To Do|To Do|To Do|To Do|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) |Medium|To Do|To Do|To Do|To Do|
 |475|[Heaters](https://leetcode.com/problems/heaters/description/) |Easy|To Do|To Do|To Do|To Do|
-|476|[Number Complement](https://leetcode.com/problems/number-complement/description/) |Easy|To Do|To Do|To Do|To Do|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/476.%20Number%20Complement/NumberComplement.java)|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) |Medium|To Do|To Do|To Do|To Do|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) |Easy|To Do|To Do|To Do|To Do|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -532,7 +532,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/) |Medium|To Do|To Do|To Do|To Do|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|To Do|To Do|To Do|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|To Do|To Do|To Do|To Do|
-|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|To Do|To Do|To Do|To Do|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/561.%20Array%20Partition%20I/ArrayPartitionI.java)|
 |562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|To Do|To Do|To Do|To Do|
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -655,7 +655,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) |Medium|To Do|To Do|To Do|To Do|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/) |Hard|To Do|To Do|To Do|To Do|
 |727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) |Easy|To Do|To Do|To Do|To Do|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/728.%20Self%20Dividing%20Numbers/SelfDividingNumbers.java)|
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) |Medium|To Do|To Do|To Do|To Do|
 |730|[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
 |731|[My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -723,7 +723,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|To Do|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|To Do|
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|To Do|
-|796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/796.%20Rotate%20String/RotateString.java)|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|To Do|
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|To Do|To Do|To Do|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|To Do|
