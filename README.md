@@ -1,11 +1,11 @@
 # Leetcode progress
-Until 2019-02-28 00:03:50, I have solved **22** / **949** problems while **140** are still locked.
+Until 2019-03-01 02:07:46, I have solved **23** / **949** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 2 
 2. Python: 1
 3. C++: 1
-4. Java: 22
+4. Java: 23
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -934,7 +934,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard|To Do|To Do|To Do|To Do|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|To Do|To Do|To Do|To Do|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Easy|To Do|To Do|To Do|To Do|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/JiaCheng-Huang/leetcode/blob/master/leetcode-algorithms/973.%20K%20Closest%20Points%20to%20Origin/Solution.java)|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium|To Do|To Do|To Do|To Do|
 |975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard|To Do|To Do|To Do|To Do|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|To Do|To Do|To Do|To Do|
